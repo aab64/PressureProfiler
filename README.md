@@ -1,6 +1,6 @@
 # Pressure profile code 
 
-This is Henrik Str&ouml;m's original pressure drop code, which I have modified to accommodate new reactor geometries. 
+This is [Henrik Str&ouml;m's](https://www.chalmers.se/en/staff/Pages/henrik-strom.aspx) original pressure drop code, which I have modified to accommodate new reactor geometries. 
 
 ## Contents
 

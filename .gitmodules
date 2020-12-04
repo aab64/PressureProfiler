@@ -1,0 +1,3 @@
+[submodule "evaluatePressure/functions/pathbetweennodes"]
+	path = evaluatePressure/functions/pathbetweennodes
+	url = https://github.com/kakearney/pathbetweennodes-pkg

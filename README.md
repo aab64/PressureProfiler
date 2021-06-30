@@ -42,3 +42,5 @@ The paths in the graph are computed using the pathbetweennodes code (item 13) de
 ---
 
 Astrid Boje, 4 December 2020.
+[![DOI](https://zenodo.org/badge/273471317.svg)](https://zenodo.org/badge/latestdoi/273471317)
+

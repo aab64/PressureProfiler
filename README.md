@@ -1,5 +1,7 @@
 # Pressure profile code 
 
+[![DOI](https://zenodo.org/badge/273471317.svg)](https://zenodo.org/badge/latestdoi/273471317)  
+
 This is [Henrik Str&ouml;m's](https://www.chalmers.se/en/staff/Pages/henrik-strom.aspx) pressure drop code, which I have modified to accommodate new reactor geometries. 
 
 ## Contents
@@ -42,5 +44,4 @@ The paths in the graph are computed using the pathbetweennodes code (item 13) de
 ---
 
 Astrid Boje, 4 December 2020.
-[![DOI](https://zenodo.org/badge/273471317.svg)](https://zenodo.org/badge/latestdoi/273471317)
 
